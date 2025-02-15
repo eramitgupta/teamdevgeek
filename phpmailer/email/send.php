@@ -140,7 +140,7 @@ class SendMail {
                   <div class="clear"></div>
                 </div>
                 <div class="footer">
-                  <h3 class="companytt">Niwax Contact Form</h3>
+                  <h3 class="companytt">TeamDevGeek Contact Form</h3>
                   <div class="ft-service">
                   <ul>
                   <li><a href="https://www.google.com/">Websites</a></li>

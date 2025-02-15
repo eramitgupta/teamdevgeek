@@ -1,4 +1,4 @@
-/* Theme: Niwax - Creative Web Design & Digital Marketing Agency HTML5 Template
+/* Theme: TeamDevGeek - Creative Web Design & Digital Marketing Agency HTML5 Template
 Author: Rajesh-Doot	
 File Description: Main JS file of the template*/
 (function ($) {
@@ -13,7 +13,7 @@ File Description: Main JS file of the template*/
       disableAt: false,
       customToggle: $toggle,
       levelSpacing: 10,
-       navTitle: 'Niwax Menu',
+       navTitle: 'TeamDevGeek Menu',
        levelTitles: true,
       levelTitles: true,
        labelClose: false,

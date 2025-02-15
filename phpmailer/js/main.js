@@ -1,5 +1,5 @@
 /* -------------------------------------------------------------------
- * Plugin Name           : Niwax - Php Ajax Modern Contact Form
+ * Plugin Name           : TeamDevGeek - Php Ajax Modern Contact Form
  * Author Name           : Rajesh Doot
  * File Name             : main.js
 ------------------------------------------------------------------- */
